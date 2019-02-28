@@ -26,8 +26,7 @@ This application's architecture follows the Model-View-ViewModel (MVVM) design p
     > Models
 - This increases the readability of the code, and helps to maintain for future purpose.
 - Reason for choosing MVVM is, as it provides better decoupling of the UI and business logic. This decoupling results in thin, flexible, and easy-to-read view controller classes in iOS.
-- Normally we choose design pattern for the reason to make life easier of the developer. I would rather say that these are the reusable solutions to common problems in software design. To support my point, I have used TableViewDataSource.swift to reuse the logic.
-- Refer file name => mvvm Block diagram.png
+- Normally we choose design pattern for the reason to make life easier of the developer. I would rather say that these are the reusable solutions to common problems in software design.
 - Completed the Manual Testing thoroughly added Unit test.
 
 # Additional Functionality
